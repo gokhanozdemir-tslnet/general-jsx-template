@@ -5,6 +5,12 @@
           yarn add redux
           yarn add react-redux
           yarn add react-logger
+
+       implement multilanguage 
+        
+        npm install i18next react-i18next i18next-http-backend i18next-browser-languagedetector --save
+        yarn add i18next react-i18next i18next-http-backend i18next-browser-languagedetector --save
+
 3-Home Page Ekle: Home.page.jsx
 4-Navigasyon Ekle: Navigation.page.jsx
 5-index.js içersine BrowserRouter ekle
@@ -18,3 +24,5 @@
      root-saga.ts 
      example.saga.ts 
      store.ts 
+
+7-Multilangugage için i18next kullanıldı ve 
